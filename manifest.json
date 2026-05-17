@@ -1,0 +1,50 @@
+{
+  "themes": [
+    {
+      "id": "fluffy-theme",
+      "name": "Fluffy Theme",
+      "author": "Boy132",
+      "version": "1.0.0",
+      "description": "A super nice and super fluffy theme.",
+      "category": "theme",
+      "has_preview": true,
+      "preview_dark_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/fluffy-theme/preview-dark.png",
+      "preview_light_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/fluffy-theme/preview-light.png"
+    },
+    {
+      "id": "neobrutalism-theme",
+      "name": "Neobrutalism Theme",
+      "author": "Boy132 (& caresome)",
+      "version": "1.0.0",
+      "description": "Transform your panel with thick borders, pronounced shadows, and geometric aesthetics inspired by the neobrutalism design movement.",
+      "category": "theme",
+      "has_preview": true,
+      "preview_dark_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/neobrutalism-theme/preview-dark.png",
+      "preview_light_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/neobrutalism-theme/preview-light.png"
+    },
+    {
+      "id": "nord-theme",
+      "name": "Nord Theme",
+      "author": "Boy132 (& andreia)",
+      "version": "1.0.0",
+      "description": "A light and dark arctic Nord theme.",
+      "category": "theme",
+      "has_preview": true,
+      "preview_dark_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/nord-theme/preview-dark.png",
+      "preview_light_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/nord-theme/preview-light.png"
+    },
+    {
+      "id": "pterodactyl-theme",
+      "name": "Pterodactyl Theme",
+      "author": "Boy132",
+      "version": "1.0.0",
+      "description": "Pterodactyl like colors and font",
+      "category": "theme",
+      "has_preview": true,
+      "preview_dark_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/pterodactyl-theme/preview-dark.png",
+      "preview_light_url": "https://raw.githubusercontent.com/everestmcarthur/forged-themes/main/pterodactyl-theme/preview-light.png"
+    }
+  ],
+  "version": "1.0.0",
+  "repo": "everestmcarthur/forged-themes"
+}
